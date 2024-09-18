@@ -1,3 +1,5 @@
+**视频请看**->[https://www.bilibili.com/video/BV1XDtVeWEm1/]
+
 <div id="content_views" class="htmledit_views">
                     <p><img alt="" height="522" src="https://i-blog.csdnimg.cn/direct/04f0520799694e3db84101191e9e1f94.png" width="1200"></p> 
 <p>今天给大家分享一个我们前段时间在做的微头条AI爆文副业项目，主要赛道讲的是男女出轨方面的内容，且内容是通过AI爆款开头续写出来的500-1000字的文章，然后发布微头条去做变现。</p> 
@@ -88,7 +90,7 @@
 <h4><a name="t4"></a><strong>写在最后：</strong></h4> 
 <p>笔者已经把这整一套流程实现了全自动化，即通过Python+爬虫技术+kimi接口，自动生成爆文开头300字，然后再进行续写完整1000字左右，最后再将续写后的文章自动化的发布到微头条平台上，轻松实现日赚收益，具体效果我在下面放个视频，如果你对这个工具感兴趣，可以看视频找到我</p> 
 <div class="csdn-video-box"> 
- <iframe id="Ifivxlin-1726640558950" frameborder="0" src="https://player.bilibili.com/player.html?aid=113156282194967" allowfullscreen="true" data-mediaembed="bilibili"></iframe> 
+ [https://www.bilibili.com/video/BV1XDtVeWEm1/] 
  <p>【副业】微头条情感类AI爆文赛道结合自动化发布工具，日赚200+</p> 
 </div> 
 <p></p>
